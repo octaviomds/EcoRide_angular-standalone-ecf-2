@@ -1,0 +1,63 @@
+<igx-nav-drawer [pinThreshold]="0" width="320px" class="nav-drawer">
+  <ng-template igxDrawer>
+    <div igxDrawerItem igxRipple routerLink="/in-app/dashboard">
+      <igx-icon class="icon">
+        dashboard
+      </igx-icon>
+      <span>Dashboard</span>
+    </div>
+    <div igxDrawerItem igxRipple routerLink="/in-app/acces">
+      <igx-icon class="icon">
+        image_search
+      </igx-icon>
+      <span>Chauffeur</span>
+    </div>
+    <div igxDrawerItem igxRipple routerLink="/in-app/contact">
+      <igx-icon class="icon">
+        playlist_add_check
+      </igx-icon>
+      <span>Contact</span>
+    </div>
+    <div igxDrawerItem igxRipple routerLink="/in-app/chauffeur">
+      <igx-icon class="icon">
+        chrome_reader_mode
+      </igx-icon>
+      <span>Accueil</span>
+    </div>
+    <div igxDrawerItem igxRipple routerLink="/in-app/covoiturage">
+      <igx-icon class="icon">
+        question_answer
+      </igx-icon>
+      <span>FAQ</span>
+    </div>
+    <div igxDrawerItem igxRipple>
+      <igx-icon class="icon">
+        settings
+      </igx-icon>
+      <span>Settings</span>
+    </div>
+  </ng-template>
+</igx-nav-drawer>
+<div class="view-container">
+  <router-outlet></router-outlet>
+</div>
+<div class="row-layout group">
+  @if (groupVisible) {
+    <div class="row-layout group_1">
+      <button igxRipple igxIconButton="flat" class="icon-button">
+        <igx-icon class="icon_1">
+          notifications
+        </igx-icon>
+      </button>
+      <button igxRipple igxIconButton="flat" class="icon-button">
+        <igx-icon class="icon_1">
+          search
+        </igx-icon>
+      </button>
+      <igx-avatar src="/assets/Avatar2.png" shape="circle" class="avatar"></igx-avatar>
+      <p class="ig-typography__body-2 text">
+        Sarah W.
+      </p>
+    </div>
+  }
+</div>

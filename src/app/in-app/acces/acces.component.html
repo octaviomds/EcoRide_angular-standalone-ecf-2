@@ -1,0 +1,50 @@
+<igx-navbar class="navbar">
+  <igx-navbar-action>
+    <button igxRipple igxIconButton="flat" class="icon-button">
+      <igx-icon>
+        menu
+      </igx-icon>
+    </button>
+  </igx-navbar-action>
+  <igx-navbar-title class="navbar-content">
+    <h6 class="h6">
+      ECORIDE
+    </h6>
+  </igx-navbar-title>
+  <button igxRipple igxIconButton="flat" class="icon-button">
+    <igx-icon>
+      search
+    </igx-icon>
+  </button>
+  <button igxRipple igxIconButton="flat" class="icon-button">
+    <igx-icon>
+      favorite
+    </igx-icon>
+  </button>
+  <button igxRipple igxIconButton="flat" class="icon-button">
+    <igx-icon>
+      more_vert
+    </igx-icon>
+  </button>
+</igx-navbar>
+<igx-banner class="banner">
+  <p>
+    Banner message
+  </p>
+  <igx-banner-actions>
+    <button igxButton="flat" igxRipple class="button">
+      Button
+    </button>
+  </igx-banner-actions>
+  <igx-icon class="icon">
+    mail
+  </igx-icon>
+</igx-banner>
+<img src="/assets/IMG_8691 3.jpg" class="image" />
+@for (item of northwindCategories; track item) {
+  <p class="ig-typography__caption text">
+    TRAJET ALLEZ :
+    TRAJET RETOUR:
+    CHAUFFEUR DISPONIBLE:
+  </p>
+}
