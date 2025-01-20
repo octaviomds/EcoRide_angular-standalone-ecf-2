@@ -1,5 +1,12 @@
 # EcoRide
 
+
+
+￼![Image 20-01-2025 à 04 08](https://github.com/user-attachments/assets/bbd89deb-c540-42f3-8bee-78496973a165)
+
+
+
+
 Exécutez  npm start pour créer l'application, démarrez un serveur Web pour ouvrir l'application dans le navigateur.
 
 Configuration de l'espace de travail
