@@ -1,5 +1,14 @@
 # EcoRide
 
+<img width="1514" alt="Capture d’écran 2025-02-08 à 00 26 10" src="https://github.com/user-attachments/assets/658ec423-759d-4378-82de-9cd7c705a4b4" />
+
+<img width="1514" alt="Capture d’écran 2025-02-08 à 00 25 19" src="https://github.com/user-attachments/assets/159fc52c-e6b1-48c7-9387-bc6123b7afe0" />
+
+
+![IMG_1502 2](https://github.com/user-attachments/assets/acfa6b2b-9906-4aba-82a6-e5b0c3a4e285)
+
+
+
 ![Image 22-01-2025 à 00 29](https://github.com/user-attachments/assets/9cc683f3-100d-47e4-a8a0-45331fe7eefa)
 
 
