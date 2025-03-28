@@ -1,6 +1,7 @@
 # EcoRide
 
-![IMG_3107](https://github.com/user-attachments/assets/8d166d5b-3a95-470f-a877-61d4cfd2b49d)
+![IMG_3156](https://github.com/user-attachments/assets/ececc30b-68d7-4b6b-8a1a-8228589b1620)
+
 
 <img width="1514" alt="Capture d’écran 2025-02-08 à 00 26 10" src="https://github.com/user-attachments/assets/658ec423-759d-4378-82de-9cd7c705a4b4" />
 
